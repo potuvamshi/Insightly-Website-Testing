@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.insightly.qa.testcases.HomePageTest">
+        <methods>
+          <include name="goToLeadsPage"/>
+          <include name="wesiteLogin"/>
+          <include name="closeBrowser"/>
+          <include name="goToTasksPage"/>
+          <include name="goToCalendersPage"/>
+          <include name="goToOpportunitiesPage"/>
+          <include name="goToProjectsPage"/>
+          <include name="goToDashboardsPage"/>
+          <include name="goToOrganisationsPage"/>
+          <include name="goToEmailsPage"/>
+          <include name="goToContactsPage"/>
+          <include name="goToReportsPage"/>
+        </methods>
+      </class> <!-- com.insightly.qa.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

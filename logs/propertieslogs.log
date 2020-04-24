@@ -1,0 +1,25 @@
+[INFO ] 2020-04-18 22:55:17.874 [main] WelcomePageTest - Opening The Browser
+[INFO ] 2020-04-18 22:55:34.100 [main] WelcomePageTest - Browser Initialized
+[INFO ] 2020-04-18 22:55:34.115 [main] WelcomePageTest - Verifying the Title
+[INFO ] 2020-04-18 22:55:34.466 [main] WelcomePageTest - Verifyed the Title
+[INFO ] 2020-04-18 22:55:34.475 [main] WelcomePageTest - Closing the Browser
+[INFO ] 2020-04-19 17:20:06.659 [main] WelcomePageTest - Opening The Browser
+[INFO ] 2020-04-19 17:20:20.624 [main] WelcomePageTest - Browser Initialized
+[INFO ] 2020-04-19 17:20:20.638 [main] WelcomePageTest - Verifying the Title
+[INFO ] 2020-04-19 17:20:23.310 [main] WelcomePageTest - Closing the Browser
+[INFO ] 2020-04-19 17:31:53.170 [main] WelcomePageTest - Opening The Browser
+[INFO ] 2020-04-19 17:32:03.996 [main] WelcomePageTest - Browser Initialized
+[INFO ] 2020-04-19 17:32:04.005 [main] WelcomePageTest - Verifying the Title
+[INFO ] 2020-04-19 17:32:04.021 [main] WelcomePageTest - Verifyed the Title
+[INFO ] 2020-04-19 17:32:04.026 [main] WelcomePageTest - Closing the Browser
+[INFO ] 2020-04-23 17:44:48.636 [main] WelcomePageTest - Opening The Browser
+[INFO ] 2020-04-23 17:45:04.232 [main] WelcomePageTest - Browser Initialized
+[INFO ] 2020-04-23 17:45:04.238 [main] WelcomePageTest - Verifying the Title
+[INFO ] 2020-04-23 17:45:04.614 [main] WelcomePageTest - Verifyed the Title
+[INFO ] 2020-04-23 17:45:04.623 [main] WelcomePageTest - Closing the Browser
+[INFO ] 2020-04-23 20:10:14.255 [main] WelcomePageTest - Opening The Browser
+[INFO ] 2020-04-23 20:10:32.637 [main] WelcomePageTest - Browser Initialized
+[INFO ] 2020-04-23 20:10:32.645 [main] WelcomePageTest - Verifying the Title
+[INFO ] 2020-04-23 20:10:33.040 [main] WelcomePageTest - Verifyed the Title
+[INFO ] 2020-04-23 20:10:33.050 [main] WelcomePageTest - Closing the Browser
+[INFO ] 2020-04-24 17:21:23.987 [main] WelcomePageTest - Opening The Browser

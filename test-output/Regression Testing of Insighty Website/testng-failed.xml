@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Testing of Insighty Website]">
+  <test thread-count="5" name="Home page Testcases(failed)">
+    <classes>
+      <class name="com.insightly.qa.testcases.HomePageTest">
+        <methods>
+          <include name="wesiteLogin"/>
+          <include name="closeBrowser"/>
+          <include name="goToOpportunitiesPage"/>
+        </methods>
+      </class> <!-- com.insightly.qa.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- Home page Testcases(failed) -->
+</suite> <!-- Failed suite [Regression Testing of Insighty Website] -->
